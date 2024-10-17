@@ -36,6 +36,14 @@ Explore the live site here: [MyOnlineMeal](https://hizmnw2dtqeu4zbvzwvioa.on.drv
 
 ---
 
-## File Structure
-Since all files are now in the **same folder**, the structure looks like this:
+## How to Use
+1. Visit the website: [MyOnlineMeal](https://hizmnw2dtqeu4zbvzwvioa.on.drv.tw/www.myonlinemeals.com/).  
+2. Use the **navbar** to explore different sections like **Services**.
+3. On mobile devices, the layout will automatically adjust to fit your screen size.
+
+---
+
+## License
+This project is licensed under the **MIT License**. You are free to use, modify, or distribute it under the terms of this license.
+
 
