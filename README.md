@@ -9,7 +9,6 @@ Explore the live site here: [MyOnlineMeal](https://hizmnw2dtqeu4zbvzwvioa.on.drv
 - [Introduction](#introduction)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [File Structure](#file-structure)
 - [How to Use](#how-to-use)
 - [License](#license)
 
